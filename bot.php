@@ -1,8 +1,8 @@
 <?php
-require_once('jwt/BeforeValidException.php');
-require_once('jwt/ExpiredException.php');
-require_once('jwt/SignatureInvalidException.php');
-require_once('jwt/JWT.php');
+require_once('johns1lver/BeforeValidException.php');
+require_once('johns1lver/ExpiredException.php');
+require_once('johns1lver/SignatureInvalidException.php');
+require_once('johns1lver/JWT.php');
 
 use \Firebase\JWT\JWT;
 
